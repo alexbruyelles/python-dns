@@ -23,7 +23,6 @@ import setuptools
 
 name = "google-cloud-dns"
 description = "Google Cloud DNS API client library"
-
 package_root = os.path.abspath(os.path.dirname(__file__))
 
 version = None
